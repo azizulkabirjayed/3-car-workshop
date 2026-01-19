@@ -15,32 +15,24 @@ You can find the assignment details here: <a href="assignment-03.pdf">click here
 
 # Key Features
 ### User Roles
-Two roles: Client and Admin
-Separate Admin Panel for management
+* Two roles: Client and Admin
+* Separate Admin Panel for management
 
 ### Client Features
-Book car service appointments online
-Select preferred mechanic and appointment date
-View mechanic availability (max 4 cars/day)
-Prevents duplicate bookings on the same date
-Instant approval or notification if unavailable
+* Book car service appointments online
+* Select preferred mechanic and appointment date
+* View mechanic availability (max 4 cars/day)
+* Prevents duplicate bookings on the same date
+* Instant approval or notification if unavailable
 
 ### Admin Features
-View all appointments in a table format
-Update appointment date and assigned mechanic
-Manage workshop scheduling efficiently
+* View all appointments in a table format
+* Update appointment date and assigned mechanic
+* Manage workshop scheduling efficiently
 
 ### System Features
-Real-time mechanic availability checking
-Input validation (date, phone, car details)
-Data stored securely in a sqlite
-Frontend–backend communication using django
+* Real-time mechanic availability checking
+* Input validation (date, phone, car details)
+* Data stored securely in a sqlite
+* Frontend–backend communication using django
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
