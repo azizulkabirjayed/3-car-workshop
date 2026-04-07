@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
 # About The Project
-This project was developed as part of the CSE391(Programming for the Internet) course assignment at BRAC University.
-You can find the assignment details here: <a href="assignment-03.pdf">click here</a>.
+This project was developed as part of the CSE391(Programming for the Internet) course [assignment](.assignment-03.pdf) at BRAC University.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Built With
